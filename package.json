@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vargasasha.github.io/Storymarket",
+  "homepage": "https://GoitStudentsWorks.github.io/js_75_vargasasha",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Storymarket/"
+    "build": "parcel build src/*.html --public-url /js_75_vargasasha/"
   },
   "repository": {
     "type": "git",
